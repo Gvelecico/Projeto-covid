@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"projeto_covid","l":"Hospital"},{"p":"projeto_covid","l":"IMovable"},{"p":"projeto_covid","l":"Mundo"},{"p":"projeto_covid","l":"Pessoa"},{"p":"projeto_covid","l":"PessoaDoente"},{"p":"projeto_covid","l":"PessoaSaudavel"},{"p":"projeto_covid","l":"Projeto_covid"},{"p":"projeto_covid","l":"Virus"}]
